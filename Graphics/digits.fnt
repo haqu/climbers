@@ -1,0 +1,16 @@
+info face="take_out_the_garbage" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=37 base=26 scaleW=256 scaleH=32 pages=1 packed=0
+page id=0 file="digits.png"
+chars count=11
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=29    xadvance=7     page=0  chnl=0 
+char id=47   x=0     y=0     width=14     height=25     xoffset=0     yoffset=6    xadvance=13     page=0  chnl=0 
+char id=53   x=14     y=0     width=17     height=24     xoffset=-1     yoffset=9    xadvance=15     page=0  chnl=0 
+char id=55   x=31     y=0     width=20     height=23     xoffset=-1     yoffset=8    xadvance=15     page=0  chnl=0 
+char id=50   x=51     y=0     width=15     height=23     xoffset=0     yoffset=8    xadvance=15     page=0  chnl=0 
+char id=57   x=66     y=0     width=16     height=22     xoffset=0     yoffset=9    xadvance=15     page=0  chnl=0 
+char id=54   x=82     y=0     width=16     height=22     xoffset=0     yoffset=9    xadvance=15     page=0  chnl=0 
+char id=52   x=98     y=0     width=15     height=22     xoffset=0     yoffset=8    xadvance=15     page=0  chnl=0 
+char id=51   x=113     y=0     width=16     height=22     xoffset=0     yoffset=9    xadvance=15     page=0  chnl=0 
+char id=48   x=129     y=0     width=17     height=21     xoffset=0     yoffset=9    xadvance=15     page=0  chnl=0 
+char id=56   x=146     y=0     width=16     height=21     xoffset=0     yoffset=9    xadvance=15     page=0  chnl=0 
+char id=49   x=162     y=0     width=7     height=21     xoffset=0     yoffset=9    xadvance=7     page=0  chnl=0 
