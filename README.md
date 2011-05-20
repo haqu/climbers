@@ -1,13 +1,11 @@
 # Climbers
 
-![Climbers](http://iplayful.com/climbers/climbers-thumb-2.jpg)
+![Climbers](http://iplayful.com/climbers/climbers-thumb-1.jpg)
 
-Two climbers connected with a rope need to make their way to the top of the wall. Drag them with your finger, avoid falling rocks and collect stars on the way.
+Two climbers connected with a rope need to make their way to the top of the wall. Drag them with your finger, avoid falling rocks and collect stars on the way. This game has started as a competition entry for the [Game Prototype Challenge v5][3].
 
 * [Climbers on the App Store][1] (Free)
-* [Climbers video on YouTube][2] 
-
-This game has started as a competition entry for the [Game Prototype Challenge v5][3].
+* [Climbers video on YouTube][2]
 
 Powered by [Cocos2D][4] framework (v1.0.0-rc2).
 
