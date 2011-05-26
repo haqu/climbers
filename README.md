@@ -16,9 +16,9 @@ Powered by [Cocos2D][4] framework (v1.0.0-rc2).
 
 ## License
 
-The code is released under the [MIT License][4].
+The code is released under the [MIT License][5].
 
-All images are copyrighted by [Sergey Tikhonov][5]. Please use them only for learning purposes, and don't release with your own project.
+All images are copyrighted by [Sergey Tikhonov][6]. Please use them only for learning purposes, and don't release with your own project.
 
-[4]: http://opensource.org/licenses/mit-license.php
-[5]: http://haqu.net/
+[5]: http://opensource.org/licenses/mit-license.php
+[6]: http://haqu.net/
