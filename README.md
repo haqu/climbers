@@ -18,7 +18,7 @@ Powered by [Cocos2D][4] framework (v1.0.0-rc2).
 
 The code is released under the [MIT License][5].
 
-All images are copyrighted by [Sergey Tikhonov][6]. Please use them only for learning purposes, and don't release with your own project.
+Game assets are copyrighted by [Sergey Tikhonov][6]. Please use them only for learning purposes, and don't release with your own project.
 
 [5]: http://opensource.org/licenses/mit-license.php
 [6]: http://haqu.net/
