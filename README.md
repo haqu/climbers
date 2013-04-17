@@ -14,6 +14,10 @@ Powered by [Cocos2D][4] framework (v1.0.0-rc2).
 [3]: http://gameprototypechallenge.com/v5
 [4]: http://www.cocos2d-iphone.org/
 
+<a href="https://www.cisimple.com/jobs/tve19r1ye8on7p04b"><img src='https://www.cisimple.com/jobs/tve19r1ye8on7p04b/build_status.png'/></a>
+
+Continuous Integration provided by [cisimple](https://www.cisimple.com).
+
 ## License
 
 The code is released under the [MIT License][5].
