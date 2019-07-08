@@ -1,6 +1,6 @@
 # Climbers
 
-![Climbers](http://iplayful.com/climbers/climbers-thumb-2.jpg)
+![Climbers](http://haqu.net/games/images/climbers-screenshot-2.jpg)
 
 Two climbers connected with a rope need to make their way to the top of the wall. Drag them with your finger, avoid falling rocks and collect stars on the way. This game has started as a competition entry for the [Game Prototype Challenge v5][3].
 
